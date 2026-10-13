@@ -1,4 +1,4 @@
-# 📦 Context-Packer for Developers
+# 📦 Repository-Packer for Developers
 
 > **Transform Git repositories into structured, token-optimized XML prompts for LLMs in seconds.**
 
