@@ -11,14 +11,14 @@
 
 ## ✨ Features
 
-* 🌲 **Automatic Directory Trees**: Generates visual, formatted repository maps for clear model orientation.
-* 🏷️ **Structured XML Formatting**: Encapsulates files in isolated `<file path="...">` tags for precise LLM parsing.
-* ⚡ **Smart File Filtering**: Excludes binaries, lockfiles, dependency folders (`node_modules/`, `venv/`), and build assets automatically.
-* 🔐 **Secure Execution**: Operates directly with GitHub API token support for private repository access.
-* 🚀 **Zero-Overhead Processing**: Fast and lightweight execution context designed for instant prompt extraction.
+* **Automatic Directory Trees**: Generates visual, formatted repository maps for clear model orientation.
+* **Structured XML Formatting**: Encapsulates files in isolated `<file path="...">` tags for precise LLM parsing.
+* **Smart File Filtering**: Excludes binaries, lockfiles, dependency folders (`node_modules/`, `venv/`), and build assets automatically.
+* **Secure Execution**: Operates directly with GitHub API token support for private repository access.
+* **Zero-Overhead Processing**: Fast and lightweight execution context designed for instant prompt extraction.
 
 ## ✨ Demonstration
-* 🏷️ **Interactive Demonstration**: About [Discover the Axleta Context Packer](https://youtu.be/sR0J1Kvbl2k)
+* **Interactive Demonstration**: About [Discover the Axleta Context Packer](https://youtu.be/sR0J1Kvbl2k)
 
 ## 🛠️ Tech Stack & Integrations
 
