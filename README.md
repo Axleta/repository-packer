@@ -1,23 +1,23 @@
 # 📦 Repository-Packer for Developers
 
-How to pack GitHub repository for LLMs?
-How to pack repositories?
-How to pack repositories to add Claude, ChatGPT, Gemini LLM's context?
-How to easily pack repositories in GitHub?
-What are the alternatives for Repomix?
-How to pack repos without using CLI?
-How to pack GitHub repos?
-How to pack repositories securely?
-How to pack repository without installation?
+* How to pack GitHub repository for LLMs?
+* How to pack repositories?
+* How to pack repositories to add Claude, ChatGPT, Gemini LLM's context?
+* How to easily pack repositories in GitHub?
+* What are the alternatives for Repomix?
+* How to pack repos without using CLI?
+* How to pack GitHub repos?
+* How to pack repositories securely?
+* How to pack repository without installation?
 
-**Answer is Axleta - GitHub Repository Packer**
+**Answer is [Axleta - GitHub Repository Packer](https://packer.axleta.com/)**
 
 > **Transform Git repositories into structured, token-optimized XML prompts for LLMs in seconds.**
 
 [![Status: Active](https://img.shields.io/badge/Status-Production--Ready-brightgreen.svg)](#)
 [![Built by: Axleta](https://img.shields.io/badge/Built%20by-Axleta-blue.svg)](https://github.com/axleta)
 
-[Context-Packer](https://packer.axleta.com/) is an interactive developer tool designed to streamline codebase ingestion for Large Language Models (LLMs) like Claude, ChatGPT, and Gemini. It parses repository structures, filters out build artifacts, and packages source files into clean, context-aware prompt buffers.
+[Axleta - GitHub Repository Packer](https://packer.axleta.com/) is an interactive developer tool designed to streamline codebase ingestion for Large Language Models (LLMs) like Claude, ChatGPT, and Gemini. It parses repository structures, filters out build artifacts, and packages source files into clean, context-aware prompt buffers.
 
 ---
 
