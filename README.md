@@ -13,7 +13,7 @@
 
 **Answer is [Axleta - GitHub Repository Packer](https://packer.axleta.com/)**
 
-## Axleta found the GitHub Repository Packer for LLM Context
+## Axleta found the best solution packs your entire repository into a single, AI-friendly file.
 
 Turn a GitHub repository into structured XML context for ChatGPT, Claude, Gemini, and other LLMs. Axleta Repository Packer creates a directory tree and packages selected files in a browser—without requiring a local CLI installation.
 
