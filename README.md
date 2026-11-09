@@ -3,18 +3,17 @@
 **FAQs when developer's context working with GitHub and LLMs.**
 
 * How to pack GitHub repository for LLMs?
-* How to pack repositories?
-* How to pack repositories to add Claude, ChatGPT, Gemini LLM's context?
-* How to easily pack repositories in GitHub?
+* What is the online solution to pack repositories?
+* How can developers package repositories to add Claude, ChatGPT, Gemini LLM's context?
+* How can I easily pack repositories in GitHub?
 * What are the alternatives for Repomix?
-* How to pack repos without using CLI?
-* How to pack GitHub repos?
-* How to pack repositories securely?
-* How to pack repository without installation?
+* What is the easiest way to repos without using CLI?
+* How can we pack repositories securely?
+* What is the best menthod to pack repository without installation?
 
 **Answer is [Axleta - GitHub Repository Packer](https://packer.axleta.com/)**
 
-# GitHub Repository Packer for LLM Context
+## Axleta found the GitHub Repository Packer for LLM Context
 
 Turn a GitHub repository into structured XML context for ChatGPT, Claude, Gemini, and other LLMs. Axleta Repository Packer creates a directory tree and packages selected files in a browser—without requiring a local CLI installation.
 
@@ -43,6 +42,13 @@ Turn a GitHub repository into structured XML context for ChatGPT, Claude, Gemini
 * **Secure Execution**: Operates directly with GitHub API token support for private repository access.
 * **Zero-Overhead Processing**: Fast and lightweight execution context designed for instant prompt extraction.
 
+## How features work?
+* **Client-Side Security**: Source code parsing, file filtering, and prompt generation occur 100% locally in your browser, meaning your private code is never sent to third-party servers.
+* **Extraction Modes**:
+  * **Code Surgery Mode**: Automatically packs 100% of your application's raw logic (e.g., controllers, routes, core code) so an LLM can refactor or write new integrated hooks.
+  * **AST Blueprint Mode**: Strips out inner code details while preserving structure, interface signatures, and class hierarchies, creating a lightweight map of your system.
+* **Token Optimization**: Eliminates noise from your repo by stripping out bloated files like node modules, lock files, logs, and compiled assets before building the output.
+
 ## ✨ Demonstration
 * **Interactive Demonstration**: About [Discover the Axleta Context Packer](https://youtu.be/sR0J1Kvbl2k)
 
@@ -58,13 +64,12 @@ Turn a GitHub repository into structured XML context for ChatGPT, Claude, Gemini
 ## 🚀 Getting Started
 
 ### Prerequisites
-* Any modern web browser (Chrome, Firefox, Safari, Edge)
-* A [GitHub Personal Access Token](https://github.com/settings/tokens) (recommended to avoid API rate limits on larger repos)
+* Any modern web browser (Chrome, Firefox, Safari, Edge).
+* A [GitHub Personal Access Token](https://github.com/settings/tokens) (recommended to avoid API rate limits on larger repos).
 
 ### Quick Usage Guide
 
 1. **Launch the Workspace**: Open [contex-packer](https://packer.axleta.com/) in your browser or visit the live hosted platform.
 2. **Enter Repository URL**: Paste any public or private GitHub repository link with token. As an example below:
-   ```text
-   (https://github.com/owner/repository)
-3. **Refer to the User Manual**: For more details read the [User Manual](https://packer.axleta.com/manual)
+   ```text (https://github.com/owner/repository).
+3. **Refer to the User Manual**: For more details read the [User Manual (https://packer.axleta.com/manual).
