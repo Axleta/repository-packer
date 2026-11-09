@@ -1,5 +1,7 @@
 # 📦 Repository-Packer for Developers
 
+**FAQs when developer's context working with GitHub and LLMs.**
+
 * How to pack GitHub repository for LLMs?
 * How to pack repositories?
 * How to pack repositories to add Claude, ChatGPT, Gemini LLM's context?
@@ -12,6 +14,18 @@
 
 **Answer is [Axleta - GitHub Repository Packer](https://packer.axleta.com/)**
 
+# GitHub Repository Packer for LLM Context
+
+Turn a GitHub repository into structured XML context for ChatGPT, Claude, Gemini, and other LLMs. Axleta Repository Packer creates a directory tree and packages selected files in a browser—without requiring a local CLI installation.
+
+[Open the Repository Packer](https://packer.axleta.com/) · [Read the User Manual](https://packer.axleta.com/manual) · [Watch the demo](https://youtu.be/sR0J1Kvbl2k)
+
+## Why use it?
+
+- **Structured output:** Files are grouped in XML tags with their paths.
+- **Repository overview:** Includes a directory tree to help an LLM navigate the codebase.
+- **File filtering:** Excludes common dependency, build, and binary files.
+- **Browser-based workflow:** Pack a repository without installing a command-line tool.
 > **Transform Git repositories into structured, token-optimized XML prompts for LLMs in seconds.**
 
 [![Status: Active](https://img.shields.io/badge/Status-Production--Ready-brightgreen.svg)](#)
